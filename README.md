@@ -10,7 +10,7 @@ TCP/UDP
 - send -> co_send
 
 #### Usage:
-##### Instalation
+##### Installation
 ```
 git clone https://github.com/vitdevelop/coroutine_epoll.git
 cd coroutine_epoll
